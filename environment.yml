@@ -1,0 +1,24 @@
+name: smc2022
+
+channels:
+  - anaconda
+  - pytorch
+  - defaults
+
+dependencies:
+  - python=3.8
+  - Cython
+  - matplotlib
+  - numpy
+  - scipy
+  - tqdm
+  - pip
+  - jupyter
+  - ipython
+  - pandas
+
+  - pip:
+    - torch
+    - mido
+    - partitura
+    - SoundFile
