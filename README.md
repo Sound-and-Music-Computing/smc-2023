@@ -24,3 +24,7 @@ Jupyter notebooks are provided to run the code which can also be directly visual
 ### Introduction to Music Theory
 
 The first lecture is a crash introduction to concepts of music theory as seen from the lens of representation. What information is necessary to encode musical elements and represent them sufficiently for a computer program.
+
+### Introduction to Machine Learning
+
+The second lecture contains some high level concepts of machine learning. It covers some basic terminology, difference between regression and classification with some useful example and external sources.
